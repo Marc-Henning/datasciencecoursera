@@ -1,8 +1,8 @@
 # hello-world
-GitHub Tutorial
+## GitHub Tutorial
 
-some additional text
+This are the items to be adressed:
+* Markdown Syntax of \*.md-Files
+* creating a new branch and start a pull request
 
-and another line
-
-Überall is a German word including the mutated vowel (Umlaut) Ü
+and so on
